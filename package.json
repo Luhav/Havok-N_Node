@@ -1,0 +1,17 @@
+{
+  "name": "havok-n",
+  "version": "1.0.0",
+  "description": "JS implementation of Havok-N, a modified version of Fletcher & Adler checksums plus an optional iterative hash function.",
+  "main": "havokn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hash",
+    "checksum",
+    "Fletcher",
+    "Adler"
+  ],
+  "author": "Lucy Havok",
+  "license": "BSD-3-Clause-No-Military-License"
+}
