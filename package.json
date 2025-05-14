@@ -2,6 +2,11 @@
   "name": "havok-n",
   "version": "1.0.0",
   "description": "JS implementation of Havok-N, a modified version of Fletcher & Adler checksums plus an optional iterative hash function.",
+  "homepage": "https://fossil.peepee.party/emojihash/wiki?name=Havok-N",
+  "bugs": {
+    "url": "https://fossil.peepee.party/emojihash/ticket",
+    "email": "naln1+havoknjs@peepee.party"
+  },
   "main": "havokn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +17,10 @@
     "Fletcher",
     "Adler"
   ],
-  "author": "Lucy Havok",
-  "license": "BSD-3-Clause-No-Military-License"
+  "author": "Lucy Havok <lucy@naln1.ca>",
+  "license": "BSD-3-Clause-No-Military-License",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luhav/Havok-N_Node.git"
+  }
 }
